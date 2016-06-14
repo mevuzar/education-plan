@@ -19,3 +19,4 @@
 #### Kleisli:
 #### scalaz.Validation
 #### scalaz.Validation vs. scalaz.\/(Disjunction Either)
+#### scalaz.concurrent.Task vs scala.concurrent.Future
