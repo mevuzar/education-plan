@@ -14,7 +14,7 @@
 
 ### Compositionality: 
 #### Currying | Partially applied Functions:
-#### Monads:
+#### Monads and monadic effects:
 #### Functors:
 #### Applicatives:
 #### Kleisli:
