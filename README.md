@@ -10,6 +10,7 @@
 ### DI:
 #### Reader Monad:
 #### Kleisli:
+#### Currying:
 
 ### Compositionality: 
 #### Currying:
