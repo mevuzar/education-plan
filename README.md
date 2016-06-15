@@ -10,10 +10,10 @@
 ### DI:
 #### Reader Monad:
 #### Kleisli:
-#### Currying:
+#### Currying | Partially applied Functions:
 
 ### Compositionality: 
-#### Currying:
+#### Currying | Partially applied Functions:
 #### Monads:
 #### Functors:
 #### Applicatives:
